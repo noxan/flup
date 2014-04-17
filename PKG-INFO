@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: flup
-Version: 1.0.2
+Version: 1.0.3.dev-20110405
 Summary: Random assortment of WSGI servers
 Home-page: http://www.saddi.com/software/flup/
 Author: Allan Saddi
