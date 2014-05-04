@@ -1,11 +1,9 @@
 # Bootstrap setuptools
-from ez_setup import use_setuptools
-use_setuptools()
 
 from setuptools import setup, find_packages
 setup(
     name = 'flup',
-    version = '1.0.2',
+    version = '1.0.3',
     packages = find_packages(),
     zip_safe = True,
     
